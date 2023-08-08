@@ -63,7 +63,7 @@ const LocalizationSection = () => {
     useEffect(() => {
         setLanguage(locale);
     }, [locale]);
-
+    // add get by id fonction
     return (
         <>
             <Box
