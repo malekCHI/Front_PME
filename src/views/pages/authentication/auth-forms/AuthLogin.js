@@ -171,7 +171,7 @@ const JWTLogin = ({ loginProp, ...others }) => {
                         <AnimateButton>
                             <Link to="/dashboard">
                                 <Button color="secondary" fullWidth size="large" type="submit" variant="contained">
-                                    Sign In
+                                    Sign Inn
                                 </Button>
                             </Link>
                         </AnimateButton>
